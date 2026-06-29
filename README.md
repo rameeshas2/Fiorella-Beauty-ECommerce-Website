@@ -105,16 +105,6 @@ The website is designed to work across multiple screen sizes including:
 ```text
 Fiorella-Beauty-ECommerce-Website/
 │
-├── assets/
-│   ├── hero-banner.png
-│   ├── homepage.png
-│   ├── products-page.png
-│   ├── product-page.png
-│   ├── shopping-cart.png
-│   ├── checkout-page.png
-│   ├── mobile-view.png
-│   └── responsive-layout.png
-│
 ├── architectural-diagrams/
 │   ├── use-case-diagram.png
 │   ├── dfd-level-0.png
